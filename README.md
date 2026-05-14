@@ -78,4 +78,4 @@ Future blind-spot reconstruction
 Back-testing and forecasting evaluation
 
 # Additional Files
-Worldly Impact Excel File: The repository also includes an Excel file summarising the broader environmental and climate accountability impact of the proposed framework, including the significance of TD–BU mismatch detection for emissions monitoring and future climate intelligence systems.
+ghg_event_timeline_2015_2023 File: The repository also includes an Excel file summarising the broader environmental and climate accountability impact of the proposed framework, including the significance of TD–BU mismatch detection for emissions monitoring and future climate intelligence systems.
