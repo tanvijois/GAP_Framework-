@@ -9,9 +9,7 @@ Blind-spot Prediction
 
 The study focuses on CO$_2$, CH$_4$, N$_2$O and NO$_2$/NO$_X$ datasets from 2015–2022.
 
-
-# Repository Structure
-1. GAP Data Collection
+# 1. GAP Data Collection File
 
 This file contains the complete data acquisition and preprocessing workflow.
 
@@ -54,7 +52,7 @@ NO$_X$
 Note:
 EDGAR reports nitrogen oxides as NO$_X$ (NO + NO$_2$), which is used only as a qualitative validation proxy for TD NO$_2$ observations.
 
-2. GAP Final Modelling File
+# 2. GAP File
 This file contains the implementation of the complete GAP framework.
 
 ## Included Components
